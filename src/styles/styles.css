@@ -1,0 +1,11 @@
+.container-fluid {
+  max-width: 900px;
+}
+
+a.active {
+  color: orange;
+}
+
+nav {
+  padding-top: 20px;
+}
